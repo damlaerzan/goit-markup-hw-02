@@ -12,7 +12,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-span {
+.home-navbar .logo .span {
   color: #2e2f42;
 }
 .header-ul .list .etiket {
@@ -39,7 +39,7 @@ address {
 .adres:focus {
   color: #404bbf;
 }
-.section-1 {
+.section1 {
   background-color: #2e2f42;
 }
 .bolum-header {
@@ -79,7 +79,7 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-3 {
+.section3 {
   background-color: #f4f4fd;
 }
 .section-header {
@@ -140,9 +140,12 @@ address {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.footer .text .span {
+.footer .text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.footer .logo .span {
   color: #f4f4fd;
 }
