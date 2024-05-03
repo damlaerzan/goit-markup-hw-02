@@ -39,7 +39,7 @@ address {
 .adres:focus {
   color: #404bbf;
 }
-.section1 {
+.one-sec {
   background-color: #2e2f42;
 }
 .bolum-header {
@@ -79,7 +79,7 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section3 {
+.our-team {
   background-color: #f4f4fd;
 }
 .section-header {
@@ -94,7 +94,7 @@ address {
 .section-ul .list {
   background-color: #ffffff;
 }
-.section-3 .subtitle {
+.our-team .subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
