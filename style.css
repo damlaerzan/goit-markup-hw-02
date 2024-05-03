@@ -64,19 +64,25 @@ address {
   background-color: #404bbf;
 }
 .section-2 {
+  background-color: #ffffff;
+}
+.section-ul .list .subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.text {
+.section-ul .list .text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-3 .section-header {
+.section-3 {
+  background-color: #f4f4fd;
+}
+.section-header {
   background-color: #f4f4fd;
   font-size: 36px;
   line-height: 1.11;
@@ -85,7 +91,7 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section-3 .section-ul {
+.section-ul .list {
   background-color: #ffffff;
 }
 .section-3 .subtitle {
