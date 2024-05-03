@@ -140,7 +140,7 @@ address {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.footer .text {
+.footer .text .span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
