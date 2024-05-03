@@ -25,8 +25,10 @@ span {
 .header-ul .etiket:hover {
   color: #404bbf;
 }
-.address .adres {
+address {
   font-style: normal;
+}
+.address .adres {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -38,6 +40,8 @@ span {
 }
 .section-1 {
   background-color: #2e2f42;
+}
+.bolum-header {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
